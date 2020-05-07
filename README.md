@@ -1,4 +1,5 @@
-# Cyberbullying-Detection-and-Analysis-based-on-Machine-Learning-and-Data-Mining
+# Detection and Analysis of Cyberbullying Data on Twitter based on Machine Learning & Data-Mining
+
 
 ## Steps For Implementation 
 
