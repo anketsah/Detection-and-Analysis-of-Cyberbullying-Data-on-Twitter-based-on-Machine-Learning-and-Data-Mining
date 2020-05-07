@@ -1,0 +1,8 @@
+** Detect Cyberbullying based on Naive Bayes and Data Mining  **
+
+** Project Description **
+This project use naive bayes model to train dataset and  detect cyberbullying.
+Our project aims to detect cyberbullying by using machine learning models and social network mining processes. 
+The implementation components include web scraping, data collection, and data pre-processing. 
+We have then used naive bayes classification model to extract the key information and analyze the sentiment.
+This data is then used to decide whether the message is cyberbullying or not.
