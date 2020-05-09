@@ -5,7 +5,7 @@
 A Data Analytics project that makes use of Naive Bayes Machine learning model to detect and analyze tweets related to Cyberbullying.
 
 ## Technologies Used
-Python for Web Scraping and Data Visualiztion.
+Python for Web Scraping and Data Visualiztion.\
 Java for pre-processing/cleaning the data and analyzing it using Naive Bayes.
 
 
