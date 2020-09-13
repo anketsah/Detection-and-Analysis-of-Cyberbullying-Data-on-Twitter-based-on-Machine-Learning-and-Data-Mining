@@ -18,18 +18,24 @@ Java for pre-processing/cleaning the data and analyzing it using Naive Bayes.
 2. Open the Web Crawler folder that contains the files:
 	- CyberbullyingWebScraper.py
 	- NonCyberBullyingWebScraper.py
-	  These programs require tweepy library to run. To install tweepy on your system, enter the command: python3 -m pip install tweepy
+	  These programs require tweepy library to run. To install tweepy on your system, enter the command: 
+	  
+	  ```	$  python3 -m pip install tweepy
+	  ```
 
 
 3. After installing tweepy, run these files on the command prompt using the command
-	- python3 CyberbullyingWebScraper.py
-	- python3 NonCyberBullyingWebScraper.py
+	```$ python3 CyberbullyingWebScraper.py
+	```
+	
+	```$ python3 NonCyberBullyingWebScraper.py
+	```
 
 
 
-4. The first command will scrape for cyberbullying tweets and write them to the output file named Cyberbullying_dataset.csv
+4. The first command will scrape for cyberbullying tweets and write them to the output file named ```Cyberbullying_dataset.csv```
   
-   The second command will scrape for research related corona virus tweets and write them to the output file named Non-Cyberbullying_dataset.csv
+   The second command will scrape for research related corona virus tweets and write them to the output file named ```Non-Cyberbullying_dataset.csv```
 
 
 
@@ -68,8 +74,10 @@ Java for pre-processing/cleaning the data and analyzing it using Naive Bayes.
 
 
 13. Run these files on the command prompt using the command
-	- python3 CyberbullyingDV.py
-	- python3 Non-CyberbullyingDV.py
+	``` $ python3 CyberbullyingDV.py
+	```
+	``` $ python3 Non-CyberbullyingDV.py
+	```
 
 
 
