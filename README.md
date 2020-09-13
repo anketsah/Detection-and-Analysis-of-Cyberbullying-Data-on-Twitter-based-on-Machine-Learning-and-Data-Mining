@@ -20,7 +20,8 @@ Java for pre-processing/cleaning the data and analyzing it using Naive Bayes.
 	- NonCyberBullyingWebScraper.py
 	  These programs require tweepy library to run. To install tweepy on your system, enter the command: 
 	  
-	  ```	$  python3 -m pip install tweepy
+	  ```	
+	  $  python3 -m pip install tweepy
 	  ```
 
 
