@@ -1,15 +1,15 @@
 # Detection and Analysis of Cyberbullying Data on Twitter based on Machine Learning & Data-Mining
 
 
-## What is it?
+## What is it? 
 A Data Analytics project that makes use of Naive Bayes Machine learning model to detect and analyze tweets related to Cyberbullying.
 
-## Technologies Used
-Python for Web Scraping and Data Visualiztion.\
+## Technologies Stack :wrench:
+Python for Web Scraping and Data Visualization.\
 Java for pre-processing/cleaning the data and analyzing it using Naive Bayes.
 
 
-## How it Works
+## How it Works :telescope:
 
 1. The very first step in execution is to crawl data and create the dataset.
 
